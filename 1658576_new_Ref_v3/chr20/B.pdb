@@ -1,0 +1,260 @@
+HEADER    3D structure of chr20 (resolution 500000bp)
+REMARK    Generated: 2026-09-24 10:45:12
+ATOM      1  CA  ALA A   1       3.965 -21.106  18.883  1.00  0.00           C
+ATOM      2  CA  ALA A   2       3.529 -21.350  18.805  1.00  0.00           C
+ATOM      3  CA  ALA A   3       3.253 -21.266  19.774  1.00  0.00           C
+ATOM      4  CA  ALA A   4       2.639 -21.204  20.420  1.00  0.00           C
+ATOM      5  CA  ALA A   5       0.680 -20.783  21.524  1.00  0.00           C
+ATOM      6  CA  ALA A   6      -0.879 -20.928  20.509  1.00  0.00           C
+ATOM      7  CA  ALA A   7      -1.748 -21.628  19.597  1.00  0.00           C
+ATOM      8  CA  ALA A   8      -3.170 -22.036  17.644  1.00  0.00           C
+ATOM      9  CA  ALA A   9      -4.056 -22.493  16.083  1.00  0.00           C
+ATOM     10  CA  ALA A  10      -5.251 -23.278  11.336  1.00  0.00           C
+ATOM     11  CA  ALA A  11      -6.043 -23.669   6.335  1.00  0.00           C
+ATOM     12  CA  ALA A  12      -7.031 -24.659  -0.254  1.00  0.00           C
+ATOM     13  CA  ALA A  13      -8.041 -25.355  -4.939  1.00  0.00           C
+ATOM     14  CA  ALA A  14      -8.634 -26.135  -7.410  1.00  0.00           C
+ATOM     15  CA  ALA A  15      -9.512 -26.522 -10.603  1.00  0.00           C
+ATOM     16  CA  ALA A  16     -10.916 -26.052 -13.967  1.00  0.00           C
+ATOM     17  CA  ALA A  17     -12.449 -25.457 -15.222  1.00  0.00           C
+ATOM     18  CA  ALA A  18     -13.752 -25.797 -15.187  1.00  0.00           C
+ATOM     19  CA  ALA A  19     -14.968 -25.393 -13.390  1.00  0.00           C
+ATOM     20  CA  ALA A  20     -16.099 -25.729 -12.193  1.00  0.00           C
+ATOM     21  CA  ALA A  21     -17.042 -23.869 -15.206  1.00  0.00           C
+ATOM     22  CA  ALA A  22     -18.425 -22.601 -17.208  1.00  0.00           C
+ATOM     23  CA  ALA A  23     -19.904 -21.668 -18.648  1.00  0.00           C
+ATOM     24  CA  ALA A  24     -20.796 -20.760 -17.942  1.00  0.00           C
+ATOM     25  CA  ALA A  25     -21.818 -19.889 -16.682  1.00  0.00           C
+ATOM     26  CA  ALA A  26     -23.494 -18.402 -16.949  1.00  0.00           C
+ATOM     27  CA  ALA A  27     -24.781 -17.453 -14.879  1.00  0.00           C
+ATOM     28  CA  ALA A  28     -26.604 -17.286 -11.241  1.00  0.00           C
+ATOM     29  CA  ALA A  29     -27.783 -16.529  -7.241  1.00  0.00           C
+ATOM     30  CA  ALA A  30     -28.162 -15.757  -4.108  1.00  0.00           C
+ATOM     31  CA  ALA A  31     -28.857 -14.583  -3.081  1.00  0.00           C
+ATOM     32  CA  ALA A  32     -29.646 -12.238  -4.130  1.00  0.00           C
+ATOM     33  CA  ALA A  33     -28.966 -11.404  -0.588  1.00  0.00           C
+ATOM     34  CA  ALA A  34     -27.896  -9.565   0.279  1.00  0.00           C
+ATOM     35  CA  ALA A  35     -26.266  -8.374   1.734  1.00  0.00           C
+ATOM     36  CA  ALA A  36     -25.729  -6.732   2.611  1.00  0.00           C
+ATOM     37  CA  ALA A  37     -25.273  -5.041   3.812  1.00  0.00           C
+ATOM     38  CA  ALA A  38     -24.411  -4.357   5.509  1.00  0.00           C
+ATOM     39  CA  ALA A  39     -23.170  -4.134   7.317  1.00  0.00           C
+ATOM     40  CA  ALA A  40     -22.834  -2.546   5.145  1.00  0.00           C
+ATOM     41  CA  ALA A  41     -23.551  -0.848   1.846  1.00  0.00           C
+ATOM     42  CA  ALA A  42     -23.842   0.868  -2.377  1.00  0.00           C
+ATOM     43  CA  ALA A  43     -22.732   1.341  -5.171  1.00  0.00           C
+ATOM     44  CA  ALA A  44     -21.702   1.498  -6.651  1.00  0.00           C
+ATOM     45  CA  ALA A  45     -20.775   2.588  -9.587  1.00  0.00           C
+ATOM     46  CA  ALA A  46     -20.256   3.794 -12.292  1.00  0.00           C
+ATOM     47  CA  ALA A  47     -18.660   4.263 -13.794  1.00  0.00           C
+ATOM     48  CA  ALA A  48     -16.239   3.575 -12.989  1.00  0.00           C
+ATOM     49  CA  ALA A  49     -14.584   2.435 -13.943  1.00  0.00           C
+ATOM     50  CA  ALA A  50     -11.703  -0.895 -18.385  1.00  0.00           C
+ATOM     51  CA  ALA A  51      -3.685  -9.908 -20.455  1.00  0.00           C
+ATOM     52  CA  ALA A  52       5.640 -18.265 -21.079  1.00  0.00           C
+ATOM     53  CA  ALA A  53      16.217 -24.713 -22.970  1.00  0.00           C
+ATOM     54  CA  ALA A  54      26.170 -28.747 -27.531  1.00  0.00           C
+ATOM     55  CA  ALA A  55      29.015 -26.222 -33.886  1.00  0.00           C
+ATOM     56  CA  ALA A  56      28.487 -21.499 -35.273  1.00  0.00           C
+ATOM     57  CA  ALA A  57      27.009 -14.567 -35.031  1.00  0.00           C
+ATOM     58  CA  ALA A  58      19.715  -2.772 -38.336  1.00  0.00           C
+ATOM     59  CA  ALA A  59      10.386   7.460 -41.951  1.00  0.00           C
+ATOM     60  CA  ALA A  60       0.331  15.993 -41.126  1.00  0.00           C
+ATOM     61  CA  ALA A  61      -8.207  19.982 -33.359  1.00  0.00           C
+ATOM     62  CA  ALA A  62     -10.449  18.512 -22.471  1.00  0.00           C
+ATOM     63  CA  ALA A  63      -8.970  15.553 -13.783  1.00  0.00           C
+ATOM     64  CA  ALA A  64      -7.856  12.253  -3.898  1.00  0.00           C
+ATOM     65  CA  ALA A  65      -6.854   9.730   6.915  1.00  0.00           C
+ATOM     66  CA  ALA A  66      -5.648   7.955  18.515  1.00  0.00           C
+ATOM     67  CA  ALA A  67      -2.959   5.330  27.340  1.00  0.00           C
+ATOM     68  CA  ALA A  68      -1.770   5.831  31.379  1.00  0.00           C
+ATOM     69  CA  ALA A  69      -0.175   6.530  34.163  1.00  0.00           C
+ATOM     70  CA  ALA A  70       0.606   7.106  35.364  1.00  0.00           C
+ATOM     71  CA  ALA A  71       1.006   7.997  37.561  1.00  0.00           C
+ATOM     72  CA  ALA A  72       2.538   8.930  38.087  1.00  0.00           C
+ATOM     73  CA  ALA A  73       3.361  10.743  37.008  1.00  0.00           C
+ATOM     74  CA  ALA A  74       1.973  12.750  34.883  1.00  0.00           C
+ATOM     75  CA  ALA A  75       0.202  13.678  31.914  1.00  0.00           C
+ATOM     76  CA  ALA A  76      -1.923  14.998  26.999  1.00  0.00           C
+ATOM     77  CA  ALA A  77      -3.642  16.419  22.659  1.00  0.00           C
+ATOM     78  CA  ALA A  78      -5.532  18.082  17.310  1.00  0.00           C
+ATOM     79  CA  ALA A  79      -7.279  19.087  12.849  1.00  0.00           C
+ATOM     80  CA  ALA A  80      -7.652  18.726  10.528  1.00  0.00           C
+ATOM     81  CA  ALA A  81      -7.666  19.132   7.542  1.00  0.00           C
+ATOM     82  CA  ALA A  82      -7.573  20.850   4.648  1.00  0.00           C
+ATOM     83  CA  ALA A  83      -6.842  21.426   2.925  1.00  0.00           C
+ATOM     84  CA  ALA A  84      -5.548  21.132   2.617  1.00  0.00           C
+ATOM     85  CA  ALA A  85      -3.562  21.223   4.233  1.00  0.00           C
+ATOM     86  CA  ALA A  86      -2.070  21.830   5.587  1.00  0.00           C
+ATOM     87  CA  ALA A  87      -0.165  22.088   6.439  1.00  0.00           C
+ATOM     88  CA  ALA A  88       1.577  22.102   8.262  1.00  0.00           C
+ATOM     89  CA  ALA A  89       4.246  21.136  11.347  1.00  0.00           C
+ATOM     90  CA  ALA A  90       6.877  20.420  14.839  1.00  0.00           C
+ATOM     91  CA  ALA A  91       9.632  19.736  16.829  1.00  0.00           C
+ATOM     92  CA  ALA A  92      12.509  18.516  17.591  1.00  0.00           C
+ATOM     93  CA  ALA A  93      15.126  18.410  18.468  1.00  0.00           C
+ATOM     94  CA  ALA A  94      16.683  19.073  17.953  1.00  0.00           C
+ATOM     95  CA  ALA A  95      18.710  17.975  19.312  1.00  0.00           C
+ATOM     96  CA  ALA A  96      19.891  15.609  20.356  1.00  0.00           C
+ATOM     97  CA  ALA A  97      21.005  13.610  21.661  1.00  0.00           C
+ATOM     98  CA  ALA A  98      21.421  11.747  22.371  1.00  0.00           C
+ATOM     99  CA  ALA A  99      20.821   9.994  21.769  1.00  0.00           C
+ATOM    100  CA  ALA A 100      19.684   7.457  19.254  1.00  0.00           C
+ATOM    101  CA  ALA A 101      18.714   5.306  16.005  1.00  0.00           C
+ATOM    102  CA  ALA A 102      17.200   4.600  10.750  1.00  0.00           C
+ATOM    103  CA  ALA A 103      16.615   5.572   4.117  1.00  0.00           C
+ATOM    104  CA  ALA A 104      16.140   5.085  -1.676  1.00  0.00           C
+ATOM    105  CA  ALA A 105      16.775   3.640  -4.904  1.00  0.00           C
+ATOM    106  CA  ALA A 106      16.444   3.688  -9.446  1.00  0.00           C
+ATOM    107  CA  ALA A 107      16.628   3.873 -13.292  1.00  0.00           C
+ATOM    108  CA  ALA A 108      16.559   3.934 -16.608  1.00  0.00           C
+ATOM    109  CA  ALA A 109      16.512   4.463 -19.280  1.00  0.00           C
+ATOM    110  CA  ALA A 110      15.657   3.954 -19.182  1.00  0.00           C
+ATOM    111  CA  ALA A 111      14.324   5.122 -19.451  1.00  0.00           C
+ATOM    112  CA  ALA A 112      13.001   7.830 -19.971  1.00  0.00           C
+ATOM    113  CA  ALA A 113      13.663   9.118 -18.083  1.00  0.00           C
+ATOM    114  CA  ALA A 114      14.292   9.487 -14.766  1.00  0.00           C
+ATOM    115  CA  ALA A 115      15.280  10.358 -10.585  1.00  0.00           C
+ATOM    116  CA  ALA A 116      15.412  11.485  -7.286  1.00  0.00           C
+ATOM    117  CA  ALA A 117      15.095  12.673  -6.014  1.00  0.00           C
+ATOM    118  CA  ALA A 118      14.652  14.207  -7.244  1.00  0.00           C
+ATOM    119  CA  ALA A 119      13.565  15.729 -10.064  1.00  0.00           C
+ATOM    120  CA  ALA A 120      12.245  17.320 -13.014  1.00  0.00           C
+ATOM    121  CA  ALA A 121      12.159  19.439 -16.024  1.00  0.00           C
+ATOM    122  CA  ALA A 122      13.177  18.274 -15.366  1.00  0.00           C
+ATOM    123  CA  ALA A 123      15.744  15.474 -12.295  1.00  0.00           C
+ATOM    124  CA  ALA A 124      19.803  13.585  -8.149  1.00  0.00           C
+ATOM    125  CA  ALA A 125      24.449  10.433  -1.469  1.00  0.00           C
+ATOM    126  CA  ALA A 126      31.506   5.731   5.044  1.00  0.00           C
+ATOM    127  CA  ALA A 127      35.049   2.811  10.000  1.00  0.00           C
+ATOM    128  CA  ALA A 128      38.131  -1.121  16.465  1.00  0.00           C
+ATOM    129  CA  ALA A 129      40.978  -2.755  19.564  1.00  0.00           C
+CONECT    1    2
+CONECT    2    3
+CONECT    3    4
+CONECT    4    5
+CONECT    5    6
+CONECT    6    7
+CONECT    7    8
+CONECT    8    9
+CONECT    9   10
+CONECT   10   11
+CONECT   11   12
+CONECT   12   13
+CONECT   13   14
+CONECT   14   15
+CONECT   15   16
+CONECT   16   17
+CONECT   17   18
+CONECT   18   19
+CONECT   19   20
+CONECT   20   21
+CONECT   21   22
+CONECT   22   23
+CONECT   23   24
+CONECT   24   25
+CONECT   25   26
+CONECT   26   27
+CONECT   27   28
+CONECT   28   29
+CONECT   29   30
+CONECT   30   31
+CONECT   31   32
+CONECT   32   33
+CONECT   33   34
+CONECT   34   35
+CONECT   35   36
+CONECT   36   37
+CONECT   37   38
+CONECT   38   39
+CONECT   39   40
+CONECT   40   41
+CONECT   41   42
+CONECT   42   43
+CONECT   43   44
+CONECT   44   45
+CONECT   45   46
+CONECT   46   47
+CONECT   47   48
+CONECT   48   49
+CONECT   49   50
+CONECT   50   51
+CONECT   51   52
+CONECT   52   53
+CONECT   53   54
+CONECT   54   55
+CONECT   55   56
+CONECT   56   57
+CONECT   57   58
+CONECT   58   59
+CONECT   59   60
+CONECT   60   61
+CONECT   61   62
+CONECT   62   63
+CONECT   63   64
+CONECT   64   65
+CONECT   65   66
+CONECT   66   67
+CONECT   67   68
+CONECT   68   69
+CONECT   69   70
+CONECT   70   71
+CONECT   71   72
+CONECT   72   73
+CONECT   73   74
+CONECT   74   75
+CONECT   75   76
+CONECT   76   77
+CONECT   77   78
+CONECT   78   79
+CONECT   79   80
+CONECT   80   81
+CONECT   81   82
+CONECT   82   83
+CONECT   83   84
+CONECT   84   85
+CONECT   85   86
+CONECT   86   87
+CONECT   87   88
+CONECT   88   89
+CONECT   89   90
+CONECT   90   91
+CONECT   91   92
+CONECT   92   93
+CONECT   93   94
+CONECT   94   95
+CONECT   95   96
+CONECT   96   97
+CONECT   97   98
+CONECT   98   99
+CONECT   99  100
+CONECT  100  101
+CONECT  101  102
+CONECT  102  103
+CONECT  103  104
+CONECT  104  105
+CONECT  105  106
+CONECT  106  107
+CONECT  107  108
+CONECT  108  109
+CONECT  109  110
+CONECT  110  111
+CONECT  111  112
+CONECT  112  113
+CONECT  113  114
+CONECT  114  115
+CONECT  115  116
+CONECT  116  117
+CONECT  117  118
+CONECT  118  119
+CONECT  119  120
+CONECT  120  121
+CONECT  121  122
+CONECT  122  123
+CONECT  123  124
+CONECT  124  125
+CONECT  125  126
+CONECT  126  127
+CONECT  127  128
+CONECT  128  129
+END
